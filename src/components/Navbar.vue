@@ -1,6 +1,6 @@
 <template>
   <header class="menu">
-    <h1 class="menu-section title">BLITZ</h1>
+    <h1 class="menu-section title">BLINTZ</h1>
     <nav class="menu-section">
       <ul class="list-links">
         <li>
